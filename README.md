@@ -1,0 +1,1 @@
+Phone Case Studio is an excellent illustration of a simple yet impactful web project. Featuring key pages like Home, About, and Products, the website effectively showcases products in a modern and intuitive way. With easy-to-understand code, this project is a valuable tool for anyone learning web development or building mini e-commerce sites.
